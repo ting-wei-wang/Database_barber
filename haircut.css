@@ -1,0 +1,40 @@
+body {
+   font-weight: bold;
+   font-family: Curlz MT , arial, sans-serif;
+   background-image: url("images\\background.jpeg");
+}
+
+table { width: 100% }
+.topic{ 
+   background-color: cyan;
+   color: blue;
+   border: 1px black solid;
+   padding: 5px;
+}
+.topic:hover { background-color: white; }
+
+div   { width: 100%; }
+img   { width: 100%; }
+
+td { 
+   font-family: Microsoft JhengHei, arial, sans-serif;
+   background-color: khaki;
+   color: black;
+   border: 0px;
+}
+.even  { 
+   background-color: whitesmoke;
+   color: black;
+}
+.top   { 
+   background-color: lightgray;
+   color: black;
+   border: 1px black solid;
+   padding: 0px; 
+}
+caption{ 
+   font-size: 3em;
+}
+h1     { 
+   font-size: 5em;
+}
